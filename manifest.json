@@ -1,0 +1,41 @@
+{
+  "short_name": "AFresto",
+  "name": "Afresto System Indonesia",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "assets/logo/16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo/24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo/32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo/64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/logo/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4caf50",
+  "background_color": "#ffffff"
+}
